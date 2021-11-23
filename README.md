@@ -8,6 +8,7 @@ This is a simple HTML and CSS project that shows how best to make use of GitHub 
 - CSS
 
 # Live Demo
+[Live Demo](https://www.google.com)
 
 # Contributor(s)
 - Dennis Akagha
