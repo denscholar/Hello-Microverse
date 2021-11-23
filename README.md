@@ -6,3 +6,12 @@ This is a simple HTML and CSS project that shows how best to make use of GitHub 
 # This project was built with:
 - HTML
 - CSS
+
+# Live Demo
+
+# Contributor(s)
+- Dennis Akagha
+
+
+
+
